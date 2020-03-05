@@ -1,5 +1,16 @@
 .img-thumbnail{
     transform: rotate(270deg);
-    
+    padding-top: 10%;
+    padding-right: 10;
+    width: 40%;
+}
+
+.list-group{
+    width: 300px;
+
+}
+
+.card-img-top{
     width: 50%;
+    
 }
