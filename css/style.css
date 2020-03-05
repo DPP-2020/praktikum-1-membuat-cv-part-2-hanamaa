@@ -1,0 +1,5 @@
+.img-thumbnail{
+    transform: rotate(270deg);
+    
+    width: 50%;
+}
